@@ -1,0 +1,17 @@
+# Dependency directories
+/node_modules/
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# Optional npm cache directory
+.npm
+
+# IDE
+.idea
+
+# For the maniacs between us
+.vscode

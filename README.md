@@ -8,7 +8,7 @@ I initially created this tool to add watermarks to my ID documents when applying
 
 ## How much time did it save me?
 
-Hear me out. It's like buying a sports car to save time on your commute, only to realize you work from home. Sure, I didn't save time, but now I've got this fancy tool I didn't really need! ¯_(ツ)_/¯
+Hear me out. It's like buying a sports car to save time on your commute, only to realize you work from home. Sure, I didn't save time, but now I've got this fancy tool I didn't really need! ¯*(ツ)*/¯
 
 ### Saving Time in Style
 
@@ -21,6 +21,7 @@ Let's be honest, adding watermarks manually is a bit of a drag. `document-waterm
 - **Efficiency**: Process your documents in a jiffy.
 
 ## Roadmap
+
 - [ ] Add support for choosing your own watermark text.
 - [ ] Add support for more document types, with smart placement of the watermark (e.g. driver's license, birth certificate, etc.)
 - [ ] Add support for more watermark types (e.g. image, logo, etc.)
@@ -45,4 +46,3 @@ Feel free to fork this project, add your own flair, and submit a pull request. A
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
-

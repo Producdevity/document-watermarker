@@ -1,0 +1,28 @@
+{
+  "name": "document-watermarker",
+  "version": "1.0.0",
+  "description": "Watermark any document",
+  "main": "src/index.js",
+  "scripts": {
+    "format": "prettier --config ./prettier.config.js --write \"src/**/*.{js,ts,json,md}\"",
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "pdf",
+    "watermarker"
+  ],
+  "author": "Yassine Gherbi - Hexelnet",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "pdf-lib": "^1.17.1",
+    "sharp": "^0.33.0"
+  },
+  "devDependencies": {
+    "husky": "^8.0.3",
+    "lint-staged": "^15.2.0",
+    "prettier": "^3.1.0"
+  }
+}
